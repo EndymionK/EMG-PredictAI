@@ -38,20 +38,22 @@ El dataset utilizado es `Data\E3_database.csv`, que contiene 69 columnas:
 
 Para ejecutar el EDA se debe tener las siguientes librerías instaladas:
 
-numpy
-pandas
-matplotlib
-seaborn
-scipy
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scipy
 
 Para instalar las librerías, se puede utilizar el siguiente comando en la terminal:
     
     ```
+
     pip install -r requirements.txt
+    
     ```
 
 ## Autores
 
-- [Andrés Arroyave Carmona]
-- [Andrés Felipe Calvo]
-- [Andrés Guillermo Toloza]
+- [Andrés Arroyave Carmona](https://github.com/EndymionK)
+- [Andrés Felipe Calvo](https://github.com/andres-calvo)
+- [Andrés Guillermo Toloza](https://github.com/AndresT2002)
