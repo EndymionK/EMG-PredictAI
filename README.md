@@ -40,7 +40,7 @@ Mapa de calor de correlación entre las variables:
 
 ![Mapa de calor de correlación](https://github.com/EndymionK/EMG-PredictAI/blob/main/Images/Mapa_de_calor.png)
 
-(El análisis completo se encuentra en el notebook `EDA.ipynb`)
+(El análisis completo con otros anáilisis se encuentra en el notebook `EDA.ipynb`)
 
 ## Requisitos
 
