@@ -6,9 +6,9 @@ Este proyecto se centra en la realización de un Análisis Exploratorio de Datos
 
 El enlace al paper es el siguiente: [Electromyography data for non-invasive naturally-controlled robotic hand prostheses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4421935/)
 
-El ejercio de nuestro equipo es el ejercicio D, que corresponde a 9 movimientos básicos de los dedos.
-El dedo que será analizado es el dedo medio
-Las clases a tener en cuenta son: 0,3,5,8
+- El ejercio de nuestro equipo es el ejercicio D, que corresponde a 9 movimientos básicos de los dedos.
+- El dedo que será analizado es el dedo medio
+- Las clases a tener en cuenta son: 0,3,5,8
 
 Imagen de las clases:
 
@@ -44,9 +44,9 @@ matplotlib
 seaborn
 scipy
 
-Para instalar las librerías, se puede utilizar el siguiente comando:
+Para instalar las librerías, se puede utilizar el siguiente comando en la terminal:
     
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 
