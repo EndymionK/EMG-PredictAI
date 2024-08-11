@@ -34,6 +34,14 @@ El dataset utilizado es `Data\E3_database.csv`, que contiene 69 columnas:
 3. **Análisis de Variables:** Exploración de la distribución de las variables y relaciones entre ellas.
 4. **Visualizaciones:** Generación de gráficos para visualizar la información contenida en el dataset.
 
+## Resultados del Análisis
+
+Mapa de calor de correlación entre las variables:
+
+![Mapa de calor de correlación](Images\Mapa_de_calor.png)
+
+(El análisis completo se encuentra en el notebook `EDA.ipynb`)
+
 ## Requisitos
 
 Para ejecutar el EDA se debe tener las siguientes librerías instaladas:
@@ -51,6 +59,17 @@ Para instalar las librerías, se puede utilizar el siguiente comando en la termi
     pip install -r requirements.txt
     
     ```
+
+## Estructura del Proyecto
+
+El proyecto está estructurado de la siguiente manera:
+
+- **Data:** Carpeta que contiene el dataset original `E3_database.csv` y el dataset limpio `df_cleaned.csv`.
+- **Images:** Carpeta que contiene imagenes del proyecto.
+- **EDA.ipynb:** Notebook de Jupyter con el código del Análisis Exploratorio de Datos.
+- **README.md:** Archivo con la descripción del proyecto.
+- **requirements.txt:** Archivo con las librerías necesarias para ejecutar el proyecto.
+
 
 ## Autores
 
